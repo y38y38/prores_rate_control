@@ -1,0 +1,426 @@
+Netflix_Aerial_1920x1080_422_10 , 02 , q_001 ,4286364 ,y ,58.354019, max diff,7,cb,58.041062, max diff,7,cr,58.588362, max diff,7
+Netflix_Aerial_1920x1080_422_10 , 02 , q_002 ,3669557 ,y ,58.354019, max diff,7,cb,58.041062, max diff,7,cr,58.588362, max diff,7
+Netflix_Aerial_1920x1080_422_10 , 02 , q_003 ,3067677 ,y ,57.363339, max diff,9,cb,56.891598, max diff,9,cr,57.678369, max diff,8
+Netflix_Aerial_1920x1080_422_10 , 02 , q_004 ,2857126 ,y ,57.205069, max diff,9,cb,56.729856, max diff,9,cr,57.523550, max diff,8
+Netflix_Aerial_1920x1080_422_10 , 02 , q_005 ,2559161 ,y ,55.567603, max diff,12,cb,55.028431, max diff,12,cr,55.942672, max diff,10
+Netflix_Aerial_1920x1080_422_10 , 02 , q_006 ,2436808 ,y ,55.376358, max diff,13,cb,54.830735, max diff,12,cr,55.766012, max diff,10
+Netflix_Aerial_1920x1080_422_10 , 02 , q_007 ,2236287 ,y ,53.725380, max diff,16,cb,53.150628, max diff,15,cr,54.162320, max diff,14
+Netflix_Aerial_1920x1080_422_10 , 02 , q_008 ,2152507 ,y ,53.547837, max diff,17,cb,52.964822, max diff,15,cr,54.000253, max diff,13
+Netflix_Aerial_1920x1080_422_10 , 02 , q_009 ,2002635 ,y ,52.073630, max diff,19,cb,51.468422, max diff,18,cr,52.556329, max diff,15
+Netflix_Aerial_1920x1080_422_10 , 02 , q_010 ,1940857 ,y ,51.922387, max diff,21,cb,51.306367, max diff,21,cr,52.420389, max diff,16
+Netflix_Aerial_1920x1080_422_10 , 02 , q_011 ,1820364 ,y ,50.629032, max diff,23,cb,50.001085, max diff,23,cr,51.156504, max diff,20
+Netflix_Aerial_1920x1080_422_10 , 02 , q_012 ,1772800 ,y ,50.509276, max diff,24,cb,49.868511, max diff,20,cr,51.053419, max diff,18
+Netflix_Aerial_1920x1080_422_10 , 02 , q_013 ,1671815 ,y ,49.367645, max diff,29,cb,48.719689, max diff,24,cr,49.932191, max diff,22
+Netflix_Aerial_1920x1080_422_10 , 02 , q_014 ,1633407 ,y ,49.263075, max diff,27,cb,48.605498, max diff,25,cr,49.832643, max diff,23
+Netflix_Aerial_1920x1080_422_10 , 02 , q_015 ,1547613 ,y ,48.266029, max diff,30,cb,47.602099, max diff,26,cr,48.859259, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 02 , q_016 ,1516247 ,y ,48.168578, max diff,34,cb,47.503542, max diff,27,cr,48.771003, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 02 , q_017 ,1441405 ,y ,47.276859, max diff,34,cb,46.599826, max diff,29,cr,47.900847, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 02 , q_018 ,1415298 ,y ,47.198920, max diff,32,cb,46.512553, max diff,29,cr,47.829063, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 02 , q_019 ,1349548 ,y ,46.389649, max diff,37,cb,45.695651, max diff,32,cr,47.047089, max diff,31
+Netflix_Aerial_1920x1080_422_10 , 02 , q_020 ,1327475 ,y ,46.325768, max diff,37,cb,45.628421, max diff,36,cr,46.989765, max diff,31
+Netflix_Aerial_1920x1080_422_10 , 02 , q_021 ,1269311 ,y ,45.597337, max diff,42,cb,44.892198, max diff,41,cr,46.274650, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 02 , q_022 ,1250335 ,y ,45.540286, max diff,41,cb,44.826446, max diff,41,cr,46.215543, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 02 , q_023 ,1198052 ,y ,44.875710, max diff,45,cb,44.150260, max diff,43,cr,45.564822, max diff,34
+Netflix_Aerial_1920x1080_422_10 , 02 , q_024 ,1181660 ,y ,44.823479, max diff,48,cb,44.086613, max diff,42,cr,45.519886, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 02 , q_025 ,1134205 ,y ,44.210654, max diff,47,cb,43.468265, max diff,42,cr,44.922475, max diff,38
+Netflix_Aerial_1920x1080_422_10 , 02 , q_026 ,1120016 ,y ,44.168146, max diff,49,cb,43.421930, max diff,48,cr,44.881454, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 02 , q_027 ,1076346 ,y ,43.597768, max diff,53,cb,42.848386, max diff,51,cr,44.329938, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 02 , q_028 ,1063630 ,y ,43.556672, max diff,52,cb,42.799771, max diff,49,cr,44.285360, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 02 , q_029 ,1023362 ,y ,43.025672, max diff,55,cb,42.260354, max diff,55,cr,43.763240, max diff,42
+Netflix_Aerial_1920x1080_422_10 , 02 , q_030 ,1012285 ,y ,42.991215, max diff,54,cb,42.222785, max diff,54,cr,43.734869, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 02 , q_031 ,975000 ,y ,42.491463, max diff,68,cb,41.717186, max diff,52,cr,43.247616, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 02 , q_032 ,965077 ,y ,42.456118, max diff,68,cb,41.678420, max diff,53,cr,43.210518, max diff,46
+Netflix_Aerial_1920x1080_422_10 , 02 , q_033 ,931064 ,y ,41.991938, max diff,63,cb,41.206243, max diff,55,cr,42.758569, max diff,48
+Netflix_Aerial_1920x1080_422_10 , 02 , q_034 ,922180 ,y ,41.965977, max diff,64,cb,41.177468, max diff,57,cr,42.732176, max diff,51
+Netflix_Aerial_1920x1080_422_10 , 02 , q_035 ,890855 ,y ,41.532790, max diff,68,cb,40.738034, max diff,68,cr,42.312629, max diff,53
+Netflix_Aerial_1920x1080_422_10 , 02 , q_036 ,882972 ,y ,41.509099, max diff,68,cb,40.708491, max diff,62,cr,42.288969, max diff,54
+Netflix_Aerial_1920x1080_422_10 , 02 , q_037 ,853608 ,y ,41.093940, max diff,74,cb,40.287035, max diff,68,cr,41.880989, max diff,53
+Netflix_Aerial_1920x1080_422_10 , 02 , q_038 ,846435 ,y ,41.071793, max diff,70,cb,40.261966, max diff,63,cr,41.860787, max diff,58
+Netflix_Aerial_1920x1080_422_10 , 02 , q_039 ,818991 ,y ,40.678586, max diff,76,cb,39.863340, max diff,68,cr,41.479503, max diff,57
+Netflix_Aerial_1920x1080_422_10 , 02 , q_040 ,812528 ,y ,40.661828, max diff,75,cb,39.844025, max diff,67,cr,41.462789, max diff,55
+Netflix_Aerial_1920x1080_422_10 , 02 , q_041 ,786816 ,y ,40.292787, max diff,82,cb,39.468007, max diff,70,cr,41.092662, max diff,57
+Netflix_Aerial_1920x1080_422_10 , 02 , q_042 ,780933 ,y ,40.274986, max diff,78,cb,39.449484, max diff,70,cr,41.076713, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 02 , q_043 ,756811 ,y ,39.919990, max diff,78,cb,39.087040, max diff,76,cr,40.722619, max diff,61
+Netflix_Aerial_1920x1080_422_10 , 02 , q_044 ,751446 ,y ,39.903481, max diff,81,cb,39.067837, max diff,74,cr,40.707649, max diff,59
+Netflix_Aerial_1920x1080_422_10 , 02 , q_045 ,728813 ,y ,39.570877, max diff,80,cb,38.727844, max diff,74,cr,40.379167, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 02 , q_046 ,723988 ,y ,39.559311, max diff,84,cb,38.713838, max diff,75,cr,40.362107, max diff,63
+Netflix_Aerial_1920x1080_422_10 , 02 , q_047 ,702610 ,y ,39.232118, max diff,85,cb,38.380097, max diff,82,cr,40.046717, max diff,65
+Netflix_Aerial_1920x1080_422_10 , 02 , q_048 ,698097 ,
+Netflix_Aerial_1920x1080_422_10 , 03 , q_001 ,3880524 ,y ,58.094267, max diff,8,cb,57.677919, max diff,7,cr,58.388161, max diff,7
+Netflix_Aerial_1920x1080_422_10 , 03 , q_002 ,3067677 ,y ,57.363339, max diff,9,cb,56.891598, max diff,9,cr,57.678369, max diff,8
+Netflix_Aerial_1920x1080_422_10 , 03 , q_003 ,2634837 ,y ,55.632694, max diff,12,cb,55.101534, max diff,11,cr,55.995482, max diff,11
+Netflix_Aerial_1920x1080_422_10 , 03 , q_004 ,2436808 ,y ,55.376358, max diff,13,cb,54.830735, max diff,12,cr,55.766012, max diff,10
+Netflix_Aerial_1920x1080_422_10 , 03 , q_005 ,2179926 ,y ,53.023839, max diff,17,cb,52.414472, max diff,15,cr,53.500215, max diff,13
+Netflix_Aerial_1920x1080_422_10 , 03 , q_006 ,2002635 ,y ,52.073630, max diff,19,cb,51.468422, max diff,18,cr,52.556329, max diff,15
+Netflix_Aerial_1920x1080_422_10 , 03 , q_007 ,1846724 ,y ,50.655162, max diff,25,cb,50.043645, max diff,23,cr,51.184236, max diff,21
+Netflix_Aerial_1920x1080_422_10 , 03 , q_008 ,1772800 ,y ,50.509276, max diff,24,cb,49.868511, max diff,20,cr,51.053419, max diff,18
+Netflix_Aerial_1920x1080_422_10 , 03 , q_009 ,1644720 ,y ,48.917504, max diff,28,cb,48.245422, max diff,27,cr,49.511449, max diff,23
+Netflix_Aerial_1920x1080_422_10 , 03 , q_010 ,1547613 ,y ,48.266029, max diff,30,cb,47.602099, max diff,26,cr,48.859259, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 03 , q_011 ,1454892 ,y ,47.272353, max diff,33,cb,46.602678, max diff,29,cr,47.896357, max diff,27
+Netflix_Aerial_1920x1080_422_10 , 03 , q_012 ,1415298 ,y ,47.198920, max diff,32,cb,46.512553, max diff,29,cr,47.829063, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 03 , q_013 ,1333588 ,y ,46.079763, max diff,41,cb,45.370677, max diff,36,cr,46.754109, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 03 , q_014 ,1269311 ,y ,45.597337, max diff,42,cb,44.892198, max diff,41,cr,46.274650, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 03 , q_015 ,1206164 ,y ,44.863839, max diff,43,cb,44.144122, max diff,43,cr,45.556898, max diff,33
+Netflix_Aerial_1920x1080_422_10 , 03 , q_016 ,1181660 ,y ,44.823479, max diff,48,cb,44.086613, max diff,42,cr,45.519886, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 03 , q_017 ,1123778 ,y ,43.986834, max diff,51,cb,43.229562, max diff,49,cr,44.708091, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 03 , q_018 ,1076346 ,y ,43.597768, max diff,53,cb,42.848386, max diff,51,cr,44.329938, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 03 , q_019 ,1028749 ,y ,43.003935, max diff,56,cb,42.243229, max diff,53,cr,43.746064, max diff,42
+Netflix_Aerial_1920x1080_422_10 , 03 , q_020 ,1012285 ,y ,42.991215, max diff,54,cb,42.222785, max diff,54,cr,43.734869, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 03 , q_021 ,967619 ,y ,42.318670, max diff,70,cb,41.531490, max diff,53,cr,43.082040, max diff,46
+Netflix_Aerial_1920x1080_422_10 , 03 , q_022 ,931064 ,y ,41.991938, max diff,63,cb,41.206243, max diff,55,cr,42.758569, max diff,48
+Netflix_Aerial_1920x1080_422_10 , 03 , q_023 ,894415 ,y ,41.510724, max diff,66,cb,40.715175, max diff,65,cr,42.284222, max diff,53
+Netflix_Aerial_1920x1080_422_10 , 03 , q_024 ,882972 ,y ,41.509099, max diff,68,cb,40.708491, max diff,62,cr,42.288969, max diff,54
+Netflix_Aerial_1920x1080_422_10 , 03 , q_025 ,848264 ,y ,40.961829, max diff,72,cb,40.144939, max diff,66,cr,41.751364, max diff,59
+Netflix_Aerial_1920x1080_422_10 , 03 , q_026 ,818991 ,y ,40.678586, max diff,76,cb,39.863340, max diff,68,cr,41.479503, max diff,57
+Netflix_Aerial_1920x1080_422_10 , 03 , q_027 ,789450 ,y ,40.271763, max diff,78,cb,39.445267, max diff,70,cr,41.073196, max diff,58
+Netflix_Aerial_1920x1080_422_10 , 03 , q_028 ,780933 ,y ,40.274986, max diff,78,cb,39.449484, max diff,70,cr,41.076713, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 03 , q_029 ,752753 ,y ,39.814938, max diff,78,cb,38.973525, max diff,75,cr,40.616891, max diff,60
+Netflix_Aerial_1920x1080_422_10 , 03 , q_030 ,728813 ,y ,39.570877, max diff,80,cb,38.727844, max diff,74,cr,40.379167, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 03 , q_031 ,704555 ,y ,39.212184, max diff,87,cb,38.359780, max diff,80,cr,40.030710, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 03 , q_032 ,698097 ,
+Netflix_Aerial_1920x1080_422_10 , 04 , q_001 ,3669557 ,y ,58.354019, max diff,7,cb,58.041062, max diff,7,cr,58.588362, max diff,7
+Netflix_Aerial_1920x1080_422_10 , 04 , q_002 ,2857126 ,y ,57.205069, max diff,9,cb,56.729856, max diff,9,cr,57.523550, max diff,8
+Netflix_Aerial_1920x1080_422_10 , 04 , q_003 ,2436808 ,y ,55.376358, max diff,13,cb,54.830735, max diff,12,cr,55.766012, max diff,10
+Netflix_Aerial_1920x1080_422_10 , 04 , q_004 ,2152507 ,y ,53.547837, max diff,17,cb,52.964822, max diff,15,cr,54.000253, max diff,13
+Netflix_Aerial_1920x1080_422_10 , 04 , q_005 ,1940857 ,y ,51.922387, max diff,21,cb,51.306367, max diff,21,cr,52.420389, max diff,16
+Netflix_Aerial_1920x1080_422_10 , 04 , q_006 ,1772800 ,y ,50.509276, max diff,24,cb,49.868511, max diff,20,cr,51.053419, max diff,18
+Netflix_Aerial_1920x1080_422_10 , 04 , q_007 ,1633407 ,y ,49.263075, max diff,27,cb,48.605498, max diff,25,cr,49.832643, max diff,23
+Netflix_Aerial_1920x1080_422_10 , 04 , q_008 ,1516247 ,y ,48.168578, max diff,34,cb,47.503542, max diff,27,cr,48.771003, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 04 , q_009 ,1415298 ,y ,47.198920, max diff,32,cb,46.512553, max diff,29,cr,47.829063, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 04 , q_010 ,1327475 ,y ,46.325768, max diff,37,cb,45.628421, max diff,36,cr,46.989765, max diff,31
+Netflix_Aerial_1920x1080_422_10 , 04 , q_011 ,1250335 ,y ,45.540286, max diff,41,cb,44.826446, max diff,41,cr,46.215543, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 04 , q_012 ,1181660 ,y ,44.823479, max diff,48,cb,44.086613, max diff,42,cr,45.519886, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 04 , q_013 ,1120016 ,y ,44.168146, max diff,49,cb,43.421930, max diff,48,cr,44.881454, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 04 , q_014 ,1063630 ,y ,43.556672, max diff,52,cb,42.799771, max diff,49,cr,44.285360, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 04 , q_015 ,1012285 ,y ,42.991215, max diff,54,cb,42.222785, max diff,54,cr,43.734869, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 04 , q_016 ,965077 ,y ,42.456118, max diff,68,cb,41.678420, max diff,53,cr,43.210518, max diff,46
+Netflix_Aerial_1920x1080_422_10 , 04 , q_017 ,922180 ,y ,41.965977, max diff,64,cb,41.177468, max diff,57,cr,42.732176, max diff,51
+Netflix_Aerial_1920x1080_422_10 , 04 , q_018 ,882972 ,y ,41.509099, max diff,68,cb,40.708491, max diff,62,cr,42.288969, max diff,54
+Netflix_Aerial_1920x1080_422_10 , 04 , q_019 ,846435 ,y ,41.071793, max diff,70,cb,40.261966, max diff,63,cr,41.860787, max diff,58
+Netflix_Aerial_1920x1080_422_10 , 04 , q_020 ,812528 ,y ,40.661828, max diff,75,cb,39.844025, max diff,67,cr,41.462789, max diff,55
+Netflix_Aerial_1920x1080_422_10 , 04 , q_021 ,780933 ,y ,40.274986, max diff,78,cb,39.449484, max diff,70,cr,41.076713, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 04 , q_022 ,751446 ,y ,39.903481, max diff,81,cb,39.067837, max diff,74,cr,40.707649, max diff,59
+Netflix_Aerial_1920x1080_422_10 , 04 , q_023 ,723988 ,y ,39.559311, max diff,84,cb,38.713838, max diff,75,cr,40.362107, max diff,63
+Netflix_Aerial_1920x1080_422_10 , 04 , q_024 ,698097 ,
+Netflix_Aerial_1920x1080_422_10 , 05 , q_001 ,3211577 ,y ,57.437924, max diff,9,cb,56.962897, max diff,9,cr,57.750791, max diff,8
+Netflix_Aerial_1920x1080_422_10 , 05 , q_002 ,2559161 ,y ,55.567603, max diff,12,cb,55.028431, max diff,12,cr,55.942672, max diff,10
+Netflix_Aerial_1920x1080_422_10 , 05 , q_003 ,2179926 ,y ,53.023839, max diff,17,cb,52.414472, max diff,15,cr,53.500215, max diff,13
+Netflix_Aerial_1920x1080_422_10 , 05 , q_004 ,1940857 ,y ,51.922387, max diff,21,cb,51.306367, max diff,21,cr,52.420389, max diff,16
+Netflix_Aerial_1920x1080_422_10 , 05 , q_005 ,1692460 ,y ,49.379501, max diff,27,cb,48.743861, max diff,24,cr,49.941961, max diff,22
+Netflix_Aerial_1920x1080_422_10 , 05 , q_006 ,1547613 ,y ,48.266029, max diff,30,cb,47.602099, max diff,26,cr,48.859259, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 05 , q_007 ,1422644 ,y ,46.927036, max diff,34,cb,46.229338, max diff,30,cr,47.575041, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 05 , q_008 ,1327475 ,y ,46.325768, max diff,37,cb,45.628421, max diff,36,cr,46.989765, max diff,31
+Netflix_Aerial_1920x1080_422_10 , 05 , q_009 ,1206164 ,y ,44.863839, max diff,43,cb,44.144122, max diff,43,cr,45.556898, max diff,33
+Netflix_Aerial_1920x1080_422_10 , 05 , q_010 ,1134205 ,y ,44.210654, max diff,47,cb,43.468265, max diff,42,cr,44.922475, max diff,38
+Netflix_Aerial_1920x1080_422_10 , 05 , q_011 ,1066943 ,y ,43.392134, max diff,53,cb,42.625967, max diff,49,cr,44.124427, max diff,41
+Netflix_Aerial_1920x1080_422_10 , 05 , q_012 ,1012285 ,y ,42.991215, max diff,54,cb,42.222785, max diff,54,cr,43.734869, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 05 , q_013 ,935195 ,y ,41.970454, max diff,65,cb,41.184699, max diff,55,cr,42.730593, max diff,49
+Netflix_Aerial_1920x1080_422_10 , 05 , q_014 ,890855 ,y ,41.532790, max diff,68,cb,40.738034, max diff,68,cr,42.312629, max diff,53
+Netflix_Aerial_1920x1080_422_10 , 05 , q_015 ,848264 ,y ,40.961829, max diff,72,cb,40.144939, max diff,66,cr,41.751364, max diff,59
+Netflix_Aerial_1920x1080_422_10 , 05 , q_016 ,812528 ,y ,40.661828, max diff,75,cb,39.844025, max diff,67,cr,41.462789, max diff,55
+Netflix_Aerial_1920x1080_422_10 , 05 , q_017 ,759213 ,y ,39.900327, max diff,81,cb,39.067411, max diff,75,cr,40.699043, max diff,63
+Netflix_Aerial_1920x1080_422_10 , 05 , q_018 ,728813 ,y ,39.570877, max diff,80,cb,38.727844, max diff,74,cr,40.379167, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 05 , q_019 ,699166 ,
+Netflix_Aerial_1920x1080_422_10 , 06 , q_001 ,3067677 ,y ,57.363339, max diff,9,cb,56.891598, max diff,9,cr,57.678369, max diff,8
+Netflix_Aerial_1920x1080_422_10 , 06 , q_002 ,2436808 ,y ,55.376358, max diff,13,cb,54.830735, max diff,12,cr,55.766012, max diff,10
+Netflix_Aerial_1920x1080_422_10 , 06 , q_003 ,2002635 ,y ,52.073630, max diff,19,cb,51.468422, max diff,18,cr,52.556329, max diff,15
+Netflix_Aerial_1920x1080_422_10 , 06 , q_004 ,1772800 ,y ,50.509276, max diff,24,cb,49.868511, max diff,20,cr,51.053419, max diff,18
+Netflix_Aerial_1920x1080_422_10 , 06 , q_005 ,1547613 ,y ,48.266029, max diff,30,cb,47.602099, max diff,26,cr,48.859259, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 06 , q_006 ,1415298 ,y ,47.198920, max diff,32,cb,46.512553, max diff,29,cr,47.829063, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 06 , q_007 ,1269311 ,y ,45.597337, max diff,42,cb,44.892198, max diff,41,cr,46.274650, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 06 , q_008 ,1181660 ,y ,44.823479, max diff,48,cb,44.086613, max diff,42,cr,45.519886, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 06 , q_009 ,1076346 ,y ,43.597768, max diff,53,cb,42.848386, max diff,51,cr,44.329938, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 06 , q_010 ,1012285 ,y ,42.991215, max diff,54,cb,42.222785, max diff,54,cr,43.734869, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 06 , q_011 ,931064 ,y ,41.991938, max diff,63,cb,41.206243, max diff,55,cr,42.758569, max diff,48
+Netflix_Aerial_1920x1080_422_10 , 06 , q_012 ,882972 ,y ,41.509099, max diff,68,cb,40.708491, max diff,62,cr,42.288969, max diff,54
+Netflix_Aerial_1920x1080_422_10 , 06 , q_013 ,818991 ,y ,40.678586, max diff,76,cb,39.863340, max diff,68,cr,41.479503, max diff,57
+Netflix_Aerial_1920x1080_422_10 , 06 , q_014 ,780933 ,y ,40.274986, max diff,78,cb,39.449484, max diff,70,cr,41.076713, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 06 , q_015 ,728813 ,y ,39.570877, max diff,80,cb,38.727844, max diff,74,cr,40.379167, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 06 , q_016 ,698097 ,
+Netflix_Aerial_1920x1080_422_10 , 07 , q_001 ,2932961 ,y ,56.630279, max diff,11,cb,56.109972, max diff,10,cr,57.000883, max diff,10
+Netflix_Aerial_1920x1080_422_10 , 07 , q_002 ,2236287 ,y ,53.725380, max diff,16,cb,53.150628, max diff,15,cr,54.162320, max diff,14
+Netflix_Aerial_1920x1080_422_10 , 07 , q_003 ,1846724 ,y ,50.655162, max diff,25,cb,50.043645, max diff,23,cr,51.184236, max diff,21
+Netflix_Aerial_1920x1080_422_10 , 07 , q_004 ,1633407 ,y ,49.263075, max diff,27,cb,48.605498, max diff,25,cr,49.832643, max diff,23
+Netflix_Aerial_1920x1080_422_10 , 07 , q_005 ,1422644 ,y ,46.927036, max diff,34,cb,46.229338, max diff,30,cr,47.575041, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 07 , q_006 ,1269311 ,y ,45.597337, max diff,42,cb,44.892198, max diff,41,cr,46.274650, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 07 , q_007 ,1141235 ,y ,44.195514, max diff,49,cb,43.456613, max diff,44,cr,44.906904, max diff,37
+Netflix_Aerial_1920x1080_422_10 , 07 , q_008 ,1063630 ,y ,43.556672, max diff,52,cb,42.799771, max diff,49,cr,44.285360, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 07 , q_009 ,967619 ,y ,42.318670, max diff,70,cb,41.531490, max diff,53,cr,43.082040, max diff,46
+Netflix_Aerial_1920x1080_422_10 , 07 , q_010 ,890855 ,y ,41.532790, max diff,68,cb,40.738034, max diff,68,cr,42.312629, max diff,53
+Netflix_Aerial_1920x1080_422_10 , 07 , q_011 ,821895 ,y ,40.657885, max diff,78,cb,39.840252, max diff,69,cr,41.456424, max diff,58
+Netflix_Aerial_1920x1080_422_10 , 07 , q_012 ,780933 ,y ,40.274986, max diff,78,cb,39.449484, max diff,70,cr,41.076713, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 07 , q_013 ,725128 ,y ,39.474109, max diff,85,cb,38.624288, max diff,74,cr,40.280973, max diff,68
+Netflix_Aerial_1920x1080_422_10 , 07 , q_014 ,678172 ,
+Netflix_Aerial_1920x1080_422_10 , 08 , q_001 ,2857126 ,y ,57.205069, max diff,9,cb,56.729856, max diff,9,cr,57.523550, max diff,8
+Netflix_Aerial_1920x1080_422_10 , 08 , q_002 ,2152507 ,y ,53.547837, max diff,17,cb,52.964822, max diff,15,cr,54.000253, max diff,13
+Netflix_Aerial_1920x1080_422_10 , 08 , q_003 ,1772800 ,y ,50.509276, max diff,24,cb,49.868511, max diff,20,cr,51.053419, max diff,18
+Netflix_Aerial_1920x1080_422_10 , 08 , q_004 ,1516247 ,y ,48.168578, max diff,34,cb,47.503542, max diff,27,cr,48.771003, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 08 , q_005 ,1327475 ,y ,46.325768, max diff,37,cb,45.628421, max diff,36,cr,46.989765, max diff,31
+Netflix_Aerial_1920x1080_422_10 , 08 , q_006 ,1181660 ,y ,44.823479, max diff,48,cb,44.086613, max diff,42,cr,45.519886, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 08 , q_007 ,1063630 ,y ,43.556672, max diff,52,cb,42.799771, max diff,49,cr,44.285360, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 08 , q_008 ,965077 ,y ,42.456118, max diff,68,cb,41.678420, max diff,53,cr,43.210518, max diff,46
+Netflix_Aerial_1920x1080_422_10 , 08 , q_009 ,882972 ,y ,41.509099, max diff,68,cb,40.708491, max diff,62,cr,42.288969, max diff,54
+Netflix_Aerial_1920x1080_422_10 , 08 , q_010 ,812528 ,y ,40.661828, max diff,75,cb,39.844025, max diff,67,cr,41.462789, max diff,55
+Netflix_Aerial_1920x1080_422_10 , 08 , q_011 ,751446 ,y ,39.903481, max diff,81,cb,39.067837, max diff,74,cr,40.707649, max diff,59
+Netflix_Aerial_1920x1080_422_10 , 08 , q_012 ,698097 ,
+Netflix_Aerial_1920x1080_422_10 , 09 , q_001 ,2634837 ,y ,55.632694, max diff,12,cb,55.101534, max diff,11,cr,55.995482, max diff,11
+Netflix_Aerial_1920x1080_422_10 , 09 , q_002 ,2002635 ,y ,52.073630, max diff,19,cb,51.468422, max diff,18,cr,52.556329, max diff,15
+Netflix_Aerial_1920x1080_422_10 , 09 , q_003 ,1644720 ,y ,48.917504, max diff,28,cb,48.245422, max diff,27,cr,49.511449, max diff,23
+Netflix_Aerial_1920x1080_422_10 , 09 , q_004 ,1415298 ,y ,47.198920, max diff,32,cb,46.512553, max diff,29,cr,47.829063, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 09 , q_005 ,1206164 ,y ,44.863839, max diff,43,cb,44.144122, max diff,43,cr,45.556898, max diff,33
+Netflix_Aerial_1920x1080_422_10 , 09 , q_006 ,1076346 ,y ,43.597768, max diff,53,cb,42.848386, max diff,51,cr,44.329938, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 09 , q_007 ,967619 ,y ,42.318670, max diff,70,cb,41.531490, max diff,53,cr,43.082040, max diff,46
+Netflix_Aerial_1920x1080_422_10 , 09 , q_008 ,882972 ,y ,41.509099, max diff,68,cb,40.708491, max diff,62,cr,42.288969, max diff,54
+Netflix_Aerial_1920x1080_422_10 , 09 , q_009 ,789450 ,y ,40.271763, max diff,78,cb,39.445267, max diff,70,cr,41.073196, max diff,58
+Netflix_Aerial_1920x1080_422_10 , 09 , q_010 ,728813 ,y ,39.570877, max diff,80,cb,38.727844, max diff,74,cr,40.379167, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 09 , q_011 ,675049 ,
+Netflix_Aerial_1920x1080_422_10 , 10 , q_001 ,2559161 ,y ,55.567603, max diff,12,cb,55.028431, max diff,12,cr,55.942672, max diff,10
+Netflix_Aerial_1920x1080_422_10 , 10 , q_002 ,1940857 ,y ,51.922387, max diff,21,cb,51.306367, max diff,21,cr,52.420389, max diff,16
+Netflix_Aerial_1920x1080_422_10 , 10 , q_003 ,1547613 ,y ,48.266029, max diff,30,cb,47.602099, max diff,26,cr,48.859259, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 10 , q_004 ,1327475 ,y ,46.325768, max diff,37,cb,45.628421, max diff,36,cr,46.989765, max diff,31
+Netflix_Aerial_1920x1080_422_10 , 10 , q_005 ,1134205 ,y ,44.210654, max diff,47,cb,43.468265, max diff,42,cr,44.922475, max diff,38
+Netflix_Aerial_1920x1080_422_10 , 10 , q_006 ,1012285 ,y ,42.991215, max diff,54,cb,42.222785, max diff,54,cr,43.734869, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 10 , q_007 ,890855 ,y ,41.532790, max diff,68,cb,40.738034, max diff,68,cr,42.312629, max diff,53
+Netflix_Aerial_1920x1080_422_10 , 10 , q_008 ,812528 ,y ,40.661828, max diff,75,cb,39.844025, max diff,67,cr,41.462789, max diff,55
+Netflix_Aerial_1920x1080_422_10 , 10 , q_009 ,728813 ,y ,39.570877, max diff,80,cb,38.727844, max diff,74,cr,40.379167, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 10 , q_010 ,674118 ,
+Netflix_Aerial_1920x1080_422_10 , 11 , q_001 ,2478708 ,y ,54.775550, max diff,14,cb,54.202800, max diff,14,cr,55.202751, max diff,12
+Netflix_Aerial_1920x1080_422_10 , 11 , q_002 ,1820364 ,y ,50.629032, max diff,23,cb,50.001085, max diff,23,cr,51.156504, max diff,20
+Netflix_Aerial_1920x1080_422_10 , 11 , q_003 ,1454892 ,y ,47.272353, max diff,33,cb,46.602678, max diff,29,cr,47.896357, max diff,27
+Netflix_Aerial_1920x1080_422_10 , 11 , q_004 ,1250335 ,y ,45.540286, max diff,41,cb,44.826446, max diff,41,cr,46.215543, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 11 , q_005 ,1066943 ,y ,43.392134, max diff,53,cb,42.625967, max diff,49,cr,44.124427, max diff,41
+Netflix_Aerial_1920x1080_422_10 , 11 , q_006 ,931064 ,y ,41.991938, max diff,63,cb,41.206243, max diff,55,cr,42.758569, max diff,48
+Netflix_Aerial_1920x1080_422_10 , 11 , q_007 ,821895 ,y ,40.657885, max diff,78,cb,39.840252, max diff,69,cr,41.456424, max diff,58
+Netflix_Aerial_1920x1080_422_10 , 11 , q_008 ,751446 ,y ,39.903481, max diff,81,cb,39.067837, max diff,74,cr,40.707649, max diff,59
+Netflix_Aerial_1920x1080_422_10 , 11 , q_009 ,675049 ,
+Netflix_Aerial_1920x1080_422_10 , 12 , q_001 ,2436808 ,y ,55.376358, max diff,13,cb,54.830735, max diff,12,cr,55.766012, max diff,10
+Netflix_Aerial_1920x1080_422_10 , 12 , q_002 ,1772800 ,y ,50.509276, max diff,24,cb,49.868511, max diff,20,cr,51.053419, max diff,18
+Netflix_Aerial_1920x1080_422_10 , 12 , q_003 ,1415298 ,y ,47.198920, max diff,32,cb,46.512553, max diff,29,cr,47.829063, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 12 , q_004 ,1181660 ,y ,44.823479, max diff,48,cb,44.086613, max diff,42,cr,45.519886, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 12 , q_005 ,1012285 ,y ,42.991215, max diff,54,cb,42.222785, max diff,54,cr,43.734869, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 12 , q_006 ,882972 ,y ,41.509099, max diff,68,cb,40.708491, max diff,62,cr,42.288969, max diff,54
+Netflix_Aerial_1920x1080_422_10 , 12 , q_007 ,780933 ,y ,40.274986, max diff,78,cb,39.449484, max diff,70,cr,41.076713, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 12 , q_008 ,698097 ,
+Netflix_Aerial_1920x1080_422_10 , 13 , q_001 ,2285366 ,y ,53.779514, max diff,16,cb,53.215077, max diff,16,cr,54.198709, max diff,15
+Netflix_Aerial_1920x1080_422_10 , 13 , q_002 ,1671815 ,y ,49.367645, max diff,29,cb,48.719689, max diff,24,cr,49.932191, max diff,22
+Netflix_Aerial_1920x1080_422_10 , 13 , q_003 ,1333588 ,y ,46.079763, max diff,41,cb,45.370677, max diff,36,cr,46.754109, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 13 , q_004 ,1120016 ,y ,44.168146, max diff,49,cb,43.421930, max diff,48,cr,44.881454, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 13 , q_005 ,935195 ,y ,41.970454, max diff,65,cb,41.184699, max diff,55,cr,42.730593, max diff,49
+Netflix_Aerial_1920x1080_422_10 , 13 , q_006 ,818991 ,y ,40.678586, max diff,76,cb,39.863340, max diff,68,cr,41.479503, max diff,57
+Netflix_Aerial_1920x1080_422_10 , 13 , q_007 ,725128 ,y ,39.474109, max diff,85,cb,38.624288, max diff,74,cr,40.280973, max diff,68
+Netflix_Aerial_1920x1080_422_10 , 13 , q_008 ,651378 ,
+Netflix_Aerial_1920x1080_422_10 , 14 , q_001 ,2236287 ,y ,53.725380, max diff,16,cb,53.150628, max diff,15,cr,54.162320, max diff,14
+Netflix_Aerial_1920x1080_422_10 , 14 , q_002 ,1633407 ,y ,49.263075, max diff,27,cb,48.605498, max diff,25,cr,49.832643, max diff,23
+Netflix_Aerial_1920x1080_422_10 , 14 , q_003 ,1269311 ,y ,45.597337, max diff,42,cb,44.892198, max diff,41,cr,46.274650, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 14 , q_004 ,1063630 ,y ,43.556672, max diff,52,cb,42.799771, max diff,49,cr,44.285360, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 14 , q_005 ,890855 ,y ,41.532790, max diff,68,cb,40.738034, max diff,68,cr,42.312629, max diff,53
+Netflix_Aerial_1920x1080_422_10 , 14 , q_006 ,780933 ,y ,40.274986, max diff,78,cb,39.449484, max diff,70,cr,41.076713, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 14 , q_007 ,678172 ,
+Netflix_Aerial_1920x1080_422_10 , 15 , q_001 ,2179926 ,y ,53.023839, max diff,17,cb,52.414472, max diff,15,cr,53.500215, max diff,13
+Netflix_Aerial_1920x1080_422_10 , 15 , q_002 ,1547613 ,y ,48.266029, max diff,30,cb,47.602099, max diff,26,cr,48.859259, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 15 , q_003 ,1206164 ,y ,44.863839, max diff,43,cb,44.144122, max diff,43,cr,45.556898, max diff,33
+Netflix_Aerial_1920x1080_422_10 , 15 , q_004 ,1012285 ,y ,42.991215, max diff,54,cb,42.222785, max diff,54,cr,43.734869, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 15 , q_005 ,848264 ,y ,40.961829, max diff,72,cb,40.144939, max diff,66,cr,41.751364, max diff,59
+Netflix_Aerial_1920x1080_422_10 , 15 , q_006 ,728813 ,y ,39.570877, max diff,80,cb,38.727844, max diff,74,cr,40.379167, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 15 , q_007 ,634710 ,
+Netflix_Aerial_1920x1080_422_10 , 16 , q_001 ,2152507 ,y ,53.547837, max diff,17,cb,52.964822, max diff,15,cr,54.000253, max diff,13
+Netflix_Aerial_1920x1080_422_10 , 16 , q_002 ,1516247 ,y ,48.168578, max diff,34,cb,47.503542, max diff,27,cr,48.771003, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 16 , q_003 ,1181660 ,y ,44.823479, max diff,48,cb,44.086613, max diff,42,cr,45.519886, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 16 , q_004 ,965077 ,y ,42.456118, max diff,68,cb,41.678420, max diff,53,cr,43.210518, max diff,46
+Netflix_Aerial_1920x1080_422_10 , 16 , q_005 ,812528 ,y ,40.661828, max diff,75,cb,39.844025, max diff,67,cr,41.462789, max diff,55
+Netflix_Aerial_1920x1080_422_10 , 16 , q_006 ,698097 ,
+Netflix_Aerial_1920x1080_422_10 , 17 , q_001 ,2037643 ,y ,52.112860, max diff,21,cb,51.519600, max diff,20,cr,52.584418, max diff,15
+Netflix_Aerial_1920x1080_422_10 , 17 , q_002 ,1441405 ,y ,47.276859, max diff,34,cb,46.599826, max diff,29,cr,47.900847, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 17 , q_003 ,1123778 ,y ,43.986834, max diff,51,cb,43.229562, max diff,49,cr,44.708091, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 17 , q_004 ,922180 ,y ,41.965977, max diff,64,cb,41.177468, max diff,57,cr,42.732176, max diff,51
+Netflix_Aerial_1920x1080_422_10 , 17 , q_005 ,759213 ,y ,39.900327, max diff,81,cb,39.067411, max diff,75,cr,40.699043, max diff,63
+Netflix_Aerial_1920x1080_422_10 , 17 , q_006 ,655097 ,
+Netflix_Aerial_1920x1080_422_10 , 18 , q_001 ,2002635 ,y ,52.073630, max diff,19,cb,51.468422, max diff,18,cr,52.556329, max diff,15
+Netflix_Aerial_1920x1080_422_10 , 18 , q_002 ,1415298 ,y ,47.198920, max diff,32,cb,46.512553, max diff,29,cr,47.829063, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 18 , q_003 ,1076346 ,y ,43.597768, max diff,53,cb,42.848386, max diff,51,cr,44.329938, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 18 , q_004 ,882972 ,y ,41.509099, max diff,68,cb,40.708491, max diff,62,cr,42.288969, max diff,54
+Netflix_Aerial_1920x1080_422_10 , 18 , q_005 ,728813 ,y ,39.570877, max diff,80,cb,38.727844, max diff,74,cr,40.379167, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 18 , q_006 ,629758 ,
+Netflix_Aerial_1920x1080_422_10 , 19 , q_001 ,1960294 ,y ,51.457633, max diff,21,cb,50.827049, max diff,19,cr,51.982909, max diff,17
+Netflix_Aerial_1920x1080_422_10 , 19 , q_002 ,1349548 ,y ,46.389649, max diff,37,cb,45.695651, max diff,32,cr,47.047089, max diff,31
+Netflix_Aerial_1920x1080_422_10 , 19 , q_003 ,1028749 ,y ,43.003935, max diff,56,cb,42.243229, max diff,53,cr,43.746064, max diff,42
+Netflix_Aerial_1920x1080_422_10 , 19 , q_004 ,846435 ,y ,41.071793, max diff,70,cb,40.261966, max diff,63,cr,41.860787, max diff,58
+Netflix_Aerial_1920x1080_422_10 , 19 , q_005 ,699166 ,
+Netflix_Aerial_1920x1080_422_10 , 2 , q_001 ,4286364 ,y ,58.354019, max diff,7,cb,58.041062, max diff,7,cr,58.588362, max diff,7
+Netflix_Aerial_1920x1080_422_10 , 2 , q_002 ,3669557 ,y ,58.354019, max diff,7,cb,58.041062, max diff,7,cr,58.588362, max diff,7
+Netflix_Aerial_1920x1080_422_10 , 2 , q_003 ,3067677 ,y ,57.363339, max diff,9,cb,56.891598, max diff,9,cr,57.678369, max diff,8
+Netflix_Aerial_1920x1080_422_10 , 2 , q_004 ,2857126 ,y ,57.205069, max diff,9,cb,56.729856, max diff,9,cr,57.523550, max diff,8
+Netflix_Aerial_1920x1080_422_10 , 2 , q_005 ,2559161 ,y ,55.567603, max diff,12,cb,55.028431, max diff,12,cr,55.942672, max diff,10
+Netflix_Aerial_1920x1080_422_10 , 2 , q_006 ,2436808 ,y ,55.376358, max diff,13,cb,54.830735, max diff,12,cr,55.766012, max diff,10
+Netflix_Aerial_1920x1080_422_10 , 2 , q_007 ,2236287 ,y ,53.725380, max diff,16,cb,53.150628, max diff,15,cr,54.162320, max diff,14
+Netflix_Aerial_1920x1080_422_10 , 2 , q_008 ,2152507 ,y ,53.547837, max diff,17,cb,52.964822, max diff,15,cr,54.000253, max diff,13
+Netflix_Aerial_1920x1080_422_10 , 2 , q_009 ,2002635 ,y ,52.073630, max diff,19,cb,51.468422, max diff,18,cr,52.556329, max diff,15
+Netflix_Aerial_1920x1080_422_10 , 2 , q_010 ,1940857 ,y ,51.922387, max diff,21,cb,51.306367, max diff,21,cr,52.420389, max diff,16
+Netflix_Aerial_1920x1080_422_10 , 2 , q_011 ,1820364 ,y ,50.629032, max diff,23,cb,50.001085, max diff,23,cr,51.156504, max diff,20
+Netflix_Aerial_1920x1080_422_10 , 2 , q_012 ,1772800 ,y ,50.509276, max diff,24,cb,49.868511, max diff,20,cr,51.053419, max diff,18
+Netflix_Aerial_1920x1080_422_10 , 2 , q_013 ,1671815 ,y ,49.367645, max diff,29,cb,48.719689, max diff,24,cr,49.932191, max diff,22
+Netflix_Aerial_1920x1080_422_10 , 2 , q_014 ,1633407 ,y ,49.263075, max diff,27,cb,48.605498, max diff,25,cr,49.832643, max diff,23
+Netflix_Aerial_1920x1080_422_10 , 2 , q_015 ,1547613 ,y ,48.266029, max diff,30,cb,47.602099, max diff,26,cr,48.859259, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 2 , q_016 ,1516247 ,y ,48.168578, max diff,34,cb,47.503542, max diff,27,cr,48.771003, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 2 , q_017 ,1441405 ,y ,47.276859, max diff,34,cb,46.599826, max diff,29,cr,47.900847, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 2 , q_018 ,1415298 ,y ,47.198920, max diff,32,cb,46.512553, max diff,29,cr,47.829063, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 2 , q_019 ,1349548 ,y ,46.389649, max diff,37,cb,45.695651, max diff,32,cr,47.047089, max diff,31
+Netflix_Aerial_1920x1080_422_10 , 2 , q_020 ,1327475 ,y ,46.325768, max diff,37,cb,45.628421, max diff,36,cr,46.989765, max diff,31
+Netflix_Aerial_1920x1080_422_10 , 2 , q_021 ,1269311 ,y ,45.597337, max diff,42,cb,44.892198, max diff,41,cr,46.274650, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 2 , q_022 ,1250335 ,y ,45.540286, max diff,41,cb,44.826446, max diff,41,cr,46.215543, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 2 , q_023 ,1198052 ,y ,44.875710, max diff,45,cb,44.150260, max diff,43,cr,45.564822, max diff,34
+Netflix_Aerial_1920x1080_422_10 , 2 , q_024 ,1181660 ,y ,44.823479, max diff,48,cb,44.086613, max diff,42,cr,45.519886, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 2 , q_025 ,1134205 ,y ,44.210654, max diff,47,cb,43.468265, max diff,42,cr,44.922475, max diff,38
+Netflix_Aerial_1920x1080_422_10 , 2 , q_026 ,1120016 ,y ,44.168146, max diff,49,cb,43.421930, max diff,48,cr,44.881454, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 2 , q_027 ,1076346 ,y ,43.597768, max diff,53,cb,42.848386, max diff,51,cr,44.329938, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 2 , q_028 ,1063630 ,y ,43.556672, max diff,52,cb,42.799771, max diff,49,cr,44.285360, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 2 , q_029 ,1023362 ,y ,43.025672, max diff,55,cb,42.260354, max diff,55,cr,43.763240, max diff,42
+Netflix_Aerial_1920x1080_422_10 , 2 , q_030 ,1012285 ,y ,42.991215, max diff,54,cb,42.222785, max diff,54,cr,43.734869, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 2 , q_031 ,975000 ,y ,42.491463, max diff,68,cb,41.717186, max diff,52,cr,43.247616, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 2 , q_032 ,965077 ,y ,42.456118, max diff,68,cb,41.678420, max diff,53,cr,43.210518, max diff,46
+Netflix_Aerial_1920x1080_422_10 , 2 , q_033 ,931064 ,y ,41.991938, max diff,63,cb,41.206243, max diff,55,cr,42.758569, max diff,48
+Netflix_Aerial_1920x1080_422_10 , 2 , q_034 ,922180 ,y ,41.965977, max diff,64,cb,41.177468, max diff,57,cr,42.732176, max diff,51
+Netflix_Aerial_1920x1080_422_10 , 2 , q_035 ,890855 ,y ,41.532790, max diff,68,cb,40.738034, max diff,68,cr,42.312629, max diff,53
+Netflix_Aerial_1920x1080_422_10 , 2 , q_036 ,882972 ,y ,41.509099, max diff,68,cb,40.708491, max diff,62,cr,42.288969, max diff,54
+Netflix_Aerial_1920x1080_422_10 , 2 , q_037 ,853608 ,y ,41.093940, max diff,74,cb,40.287035, max diff,68,cr,41.880989, max diff,53
+Netflix_Aerial_1920x1080_422_10 , 2 , q_038 ,846435 ,y ,41.071793, max diff,70,cb,40.261966, max diff,63,cr,41.860787, max diff,58
+Netflix_Aerial_1920x1080_422_10 , 2 , q_039 ,818991 ,y ,40.678586, max diff,76,cb,39.863340, max diff,68,cr,41.479503, max diff,57
+Netflix_Aerial_1920x1080_422_10 , 2 , q_040 ,812528 ,y ,40.661828, max diff,75,cb,39.844025, max diff,67,cr,41.462789, max diff,55
+Netflix_Aerial_1920x1080_422_10 , 2 , q_041 ,786816 ,y ,40.292787, max diff,82,cb,39.468007, max diff,70,cr,41.092662, max diff,57
+Netflix_Aerial_1920x1080_422_10 , 2 , q_042 ,780933 ,y ,40.274986, max diff,78,cb,39.449484, max diff,70,cr,41.076713, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 2 , q_043 ,756811 ,y ,39.919990, max diff,78,cb,39.087040, max diff,76,cr,40.722619, max diff,61
+Netflix_Aerial_1920x1080_422_10 , 2 , q_044 ,751446 ,y ,39.903481, max diff,81,cb,39.067837, max diff,74,cr,40.707649, max diff,59
+Netflix_Aerial_1920x1080_422_10 , 2 , q_045 ,728813 ,y ,39.570877, max diff,80,cb,38.727844, max diff,74,cr,40.379167, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 2 , q_046 ,723988 ,y ,39.559311, max diff,84,cb,38.713838, max diff,75,cr,40.362107, max diff,63
+Netflix_Aerial_1920x1080_422_10 , 2 , q_047 ,702610 ,y ,39.232118, max diff,85,cb,38.380097, max diff,82,cr,40.046717, max diff,65
+Netflix_Aerial_1920x1080_422_10 , 2 , q_048 ,698097 ,
+Netflix_Aerial_1920x1080_422_10 , 20 , q_001 ,1940857 ,y ,51.922387, max diff,21,cb,51.306367, max diff,21,cr,52.420389, max diff,16
+Netflix_Aerial_1920x1080_422_10 , 20 , q_002 ,1327475 ,y ,46.325768, max diff,37,cb,45.628421, max diff,36,cr,46.989765, max diff,31
+Netflix_Aerial_1920x1080_422_10 , 20 , q_003 ,1012285 ,y ,42.991215, max diff,54,cb,42.222785, max diff,54,cr,43.734869, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 20 , q_004 ,812528 ,y ,40.661828, max diff,75,cb,39.844025, max diff,67,cr,41.462789, max diff,55
+Netflix_Aerial_1920x1080_422_10 , 20 , q_005 ,674118 ,
+Netflix_Aerial_1920x1080_422_10 , 21 , q_001 ,1846724 ,y ,50.655162, max diff,25,cb,50.043645, max diff,23,cr,51.184236, max diff,21
+Netflix_Aerial_1920x1080_422_10 , 21 , q_002 ,1269311 ,y ,45.597337, max diff,42,cb,44.892198, max diff,41,cr,46.274650, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 21 , q_003 ,967619 ,y ,42.318670, max diff,70,cb,41.531490, max diff,53,cr,43.082040, max diff,46
+Netflix_Aerial_1920x1080_422_10 , 21 , q_004 ,780933 ,y ,40.274986, max diff,78,cb,39.449484, max diff,70,cr,41.076713, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 21 , q_005 ,634710 ,
+Netflix_Aerial_1920x1080_422_10 , 22 , q_001 ,1820364 ,y ,50.629032, max diff,23,cb,50.001085, max diff,23,cr,51.156504, max diff,20
+Netflix_Aerial_1920x1080_422_10 , 22 , q_002 ,1250335 ,y ,45.540286, max diff,41,cb,44.826446, max diff,41,cr,46.215543, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 22 , q_003 ,931064 ,y ,41.991938, max diff,63,cb,41.206243, max diff,55,cr,42.758569, max diff,48
+Netflix_Aerial_1920x1080_422_10 , 22 , q_004 ,751446 ,y ,39.903481, max diff,81,cb,39.067837, max diff,74,cr,40.707649, max diff,59
+Netflix_Aerial_1920x1080_422_10 , 22 , q_005 ,612474 ,
+Netflix_Aerial_1920x1080_422_10 , 23 , q_001 ,1787261 ,y ,50.109774, max diff,25,cb,49.450642, max diff,24,cr,50.667846, max diff,19
+Netflix_Aerial_1920x1080_422_10 , 23 , q_002 ,1198052 ,y ,44.875710, max diff,45,cb,44.150260, max diff,43,cr,45.564822, max diff,34
+Netflix_Aerial_1920x1080_422_10 , 23 , q_003 ,894415 ,y ,41.510724, max diff,66,cb,40.715175, max diff,65,cr,42.284222, max diff,53
+Netflix_Aerial_1920x1080_422_10 , 23 , q_004 ,723988 ,y ,39.559311, max diff,84,cb,38.713838, max diff,75,cr,40.362107, max diff,63
+Netflix_Aerial_1920x1080_422_10 , 23 , q_005 ,590558 ,
+Netflix_Aerial_1920x1080_422_10 , 24 , q_001 ,1772800 ,y ,50.509276, max diff,24,cb,49.868511, max diff,20,cr,51.053419, max diff,18
+Netflix_Aerial_1920x1080_422_10 , 24 , q_002 ,1181660 ,y ,44.823479, max diff,48,cb,44.086613, max diff,42,cr,45.519886, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 24 , q_003 ,882972 ,y ,41.509099, max diff,68,cb,40.708491, max diff,62,cr,42.288969, max diff,54
+Netflix_Aerial_1920x1080_422_10 , 24 , q_004 ,698097 ,
+Netflix_Aerial_1920x1080_422_10 , 25 , q_001 ,1692460 ,y ,49.379501, max diff,27,cb,48.743861, max diff,24,cr,49.941961, max diff,22
+Netflix_Aerial_1920x1080_422_10 , 25 , q_002 ,1134205 ,y ,44.210654, max diff,47,cb,43.468265, max diff,42,cr,44.922475, max diff,38
+Netflix_Aerial_1920x1080_422_10 , 25 , q_003 ,848264 ,y ,40.961829, max diff,72,cb,40.144939, max diff,66,cr,41.751364, max diff,59
+Netflix_Aerial_1920x1080_422_10 , 25 , q_004 ,674118 ,
+Netflix_Aerial_1920x1080_422_10 , 26 , q_001 ,1671815 ,y ,49.367645, max diff,29,cb,48.719689, max diff,24,cr,49.932191, max diff,22
+Netflix_Aerial_1920x1080_422_10 , 26 , q_002 ,1120016 ,y ,44.168146, max diff,49,cb,43.421930, max diff,48,cr,44.881454, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 26 , q_003 ,818991 ,y ,40.678586, max diff,76,cb,39.863340, max diff,68,cr,41.479503, max diff,57
+Netflix_Aerial_1920x1080_422_10 , 26 , q_004 ,651378 ,
+Netflix_Aerial_1920x1080_422_10 , 27 , q_001 ,1644720 ,y ,48.917504, max diff,28,cb,48.245422, max diff,27,cr,49.511449, max diff,23
+Netflix_Aerial_1920x1080_422_10 , 27 , q_002 ,1076346 ,y ,43.597768, max diff,53,cb,42.848386, max diff,51,cr,44.329938, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 27 , q_003 ,789450 ,y ,40.271763, max diff,78,cb,39.445267, max diff,70,cr,41.073196, max diff,58
+Netflix_Aerial_1920x1080_422_10 , 27 , q_004 ,629758 ,
+Netflix_Aerial_1920x1080_422_10 , 28 , q_001 ,1633407 ,y ,49.263075, max diff,27,cb,48.605498, max diff,25,cr,49.832643, max diff,23
+Netflix_Aerial_1920x1080_422_10 , 28 , q_002 ,1063630 ,y ,43.556672, max diff,52,cb,42.799771, max diff,49,cr,44.285360, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 28 , q_003 ,780933 ,y ,40.274986, max diff,78,cb,39.449484, max diff,70,cr,41.076713, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 28 , q_004 ,609302 ,
+Netflix_Aerial_1920x1080_422_10 , 29 , q_001 ,1564149 ,y ,48.268919, max diff,30,cb,47.611766, max diff,27,cr,48.856439, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 29 , q_002 ,1023362 ,y ,43.025672, max diff,55,cb,42.260354, max diff,55,cr,43.763240, max diff,42
+Netflix_Aerial_1920x1080_422_10 , 29 , q_003 ,752753 ,y ,39.814938, max diff,78,cb,38.973525, max diff,75,cr,40.616891, max diff,60
+Netflix_Aerial_1920x1080_422_10 , 29 , q_004 ,589875 ,
+Netflix_Aerial_1920x1080_422_10 , 30 , q_001 ,1547613 ,y ,48.266029, max diff,30,cb,47.602099, max diff,26,cr,48.859259, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 30 , q_002 ,1012285 ,y ,42.991215, max diff,54,cb,42.222785, max diff,54,cr,43.734869, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 30 , q_003 ,728813 ,y ,39.570877, max diff,80,cb,38.727844, max diff,74,cr,40.379167, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 30 , q_004 ,571835 ,
+Netflix_Aerial_1920x1080_422_10 , 31 , q_001 ,1525286 ,y ,47.860256, max diff,35,cb,47.180601, max diff,26,cr,48.487502, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 31 , q_002 ,975000 ,y ,42.491463, max diff,68,cb,41.717186, max diff,52,cr,43.247616, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 31 , q_003 ,704555 ,y ,39.212184, max diff,87,cb,38.359780, max diff,80,cr,40.030710, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 31 , q_004 ,554812 ,
+Netflix_Aerial_1920x1080_422_10 , 32 , q_001 ,1516247 ,y ,48.168578, max diff,34,cb,47.503542, max diff,27,cr,48.771003, max diff,24
+Netflix_Aerial_1920x1080_422_10 , 32 , q_002 ,965077 ,y ,42.456118, max diff,68,cb,41.678420, max diff,53,cr,43.210518, max diff,46
+Netflix_Aerial_1920x1080_422_10 , 32 , q_003 ,698097 ,
+Netflix_Aerial_1920x1080_422_10 , 33 , q_001 ,1454892 ,y ,47.272353, max diff,33,cb,46.602678, max diff,29,cr,47.896357, max diff,27
+Netflix_Aerial_1920x1080_422_10 , 33 , q_002 ,931064 ,y ,41.991938, max diff,63,cb,41.206243, max diff,55,cr,42.758569, max diff,48
+Netflix_Aerial_1920x1080_422_10 , 33 , q_003 ,675049 ,
+Netflix_Aerial_1920x1080_422_10 , 34 , q_001 ,1441405 ,y ,47.276859, max diff,34,cb,46.599826, max diff,29,cr,47.900847, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 34 , q_002 ,922180 ,y ,41.965977, max diff,64,cb,41.177468, max diff,57,cr,42.732176, max diff,51
+Netflix_Aerial_1920x1080_422_10 , 34 , q_003 ,655097 ,
+Netflix_Aerial_1920x1080_422_10 , 35 , q_001 ,1422644 ,y ,46.927036, max diff,34,cb,46.229338, max diff,30,cr,47.575041, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 35 , q_002 ,890855 ,y ,41.532790, max diff,68,cb,40.738034, max diff,68,cr,42.312629, max diff,53
+Netflix_Aerial_1920x1080_422_10 , 35 , q_003 ,634710 ,
+Netflix_Aerial_1920x1080_422_10 , 36 , q_001 ,1415298 ,y ,47.198920, max diff,32,cb,46.512553, max diff,29,cr,47.829063, max diff,26
+Netflix_Aerial_1920x1080_422_10 , 36 , q_002 ,882972 ,y ,41.509099, max diff,68,cb,40.708491, max diff,62,cr,42.288969, max diff,54
+Netflix_Aerial_1920x1080_422_10 , 36 , q_003 ,629758 ,
+Netflix_Aerial_1920x1080_422_10 , 37 , q_001 ,1360811 ,y ,46.385968, max diff,35,cb,45.699201, max diff,34,cr,47.040575, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 37 , q_002 ,853608 ,y ,41.093940, max diff,74,cb,40.287035, max diff,68,cr,41.880989, max diff,53
+Netflix_Aerial_1920x1080_422_10 , 37 , q_003 ,609977 ,
+Netflix_Aerial_1920x1080_422_10 , 38 , q_001 ,1349548 ,y ,46.389649, max diff,37,cb,45.695651, max diff,32,cr,47.047089, max diff,31
+Netflix_Aerial_1920x1080_422_10 , 38 , q_002 ,846435 ,y ,41.071793, max diff,70,cb,40.261966, max diff,63,cr,41.860787, max diff,58
+Netflix_Aerial_1920x1080_422_10 , 38 , q_003 ,592852 ,
+Netflix_Aerial_1920x1080_422_10 , 39 , q_001 ,1333588 ,y ,46.079763, max diff,41,cb,45.370677, max diff,36,cr,46.754109, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 39 , q_002 ,818991 ,y ,40.678586, max diff,76,cb,39.863340, max diff,68,cr,41.479503, max diff,57
+Netflix_Aerial_1920x1080_422_10 , 39 , q_003 ,575684 ,
+Netflix_Aerial_1920x1080_422_10 , 40 , q_001 ,1327475 ,y ,46.325768, max diff,37,cb,45.628421, max diff,36,cr,46.989765, max diff,31
+Netflix_Aerial_1920x1080_422_10 , 40 , q_002 ,812528 ,y ,40.661828, max diff,75,cb,39.844025, max diff,67,cr,41.462789, max diff,55
+Netflix_Aerial_1920x1080_422_10 , 40 , q_003 ,571835 ,
+Netflix_Aerial_1920x1080_422_10 , 41 , q_001 ,1278950 ,y ,45.589012, max diff,42,cb,44.887724, max diff,42,cr,46.264397, max diff,33
+Netflix_Aerial_1920x1080_422_10 , 41 , q_002 ,786816 ,y ,40.292787, max diff,82,cb,39.468007, max diff,70,cr,41.092662, max diff,57
+Netflix_Aerial_1920x1080_422_10 , 41 , q_003 ,555411 ,
+Netflix_Aerial_1920x1080_422_10 , 42 , q_001 ,1269311 ,y ,45.597337, max diff,42,cb,44.892198, max diff,41,cr,46.274650, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 42 , q_002 ,780933 ,y ,40.274986, max diff,78,cb,39.449484, max diff,70,cr,41.076713, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 42 , q_003 ,540664 ,
+Netflix_Aerial_1920x1080_422_10 , 43 , q_001 ,1255506 ,y ,45.319760, max diff,43,cb,44.593218, max diff,43,cr,46.005088, max diff,33
+Netflix_Aerial_1920x1080_422_10 , 43 , q_002 ,756811 ,y ,39.919990, max diff,78,cb,39.087040, max diff,76,cr,40.722619, max diff,61
+Netflix_Aerial_1920x1080_422_10 , 43 , q_003 ,526030 ,
+Netflix_Aerial_1920x1080_422_10 , 44 , q_001 ,1250335 ,y ,45.540286, max diff,41,cb,44.826446, max diff,41,cr,46.215543, max diff,32
+Netflix_Aerial_1920x1080_422_10 , 44 , q_002 ,751446 ,y ,39.903481, max diff,81,cb,39.067837, max diff,74,cr,40.707649, max diff,59
+Netflix_Aerial_1920x1080_422_10 , 44 , q_003 ,522854 ,
+Netflix_Aerial_1920x1080_422_10 , 45 , q_001 ,1206164 ,y ,44.863839, max diff,43,cb,44.144122, max diff,43,cr,45.556898, max diff,33
+Netflix_Aerial_1920x1080_422_10 , 45 , q_002 ,728813 ,y ,39.570877, max diff,80,cb,38.727844, max diff,74,cr,40.379167, max diff,64
+Netflix_Aerial_1920x1080_422_10 , 45 , q_003 ,508535 ,
+Netflix_Aerial_1920x1080_422_10 , 46 , q_001 ,1198052 ,y ,44.875710, max diff,45,cb,44.150260, max diff,43,cr,45.564822, max diff,34
+Netflix_Aerial_1920x1080_422_10 , 46 , q_002 ,723988 ,y ,39.559311, max diff,84,cb,38.713838, max diff,75,cr,40.362107, max diff,63
+Netflix_Aerial_1920x1080_422_10 , 46 , q_003 ,495995 ,
+Netflix_Aerial_1920x1080_422_10 , 47 , q_001 ,1186041 ,y ,44.623991, max diff,46,cb,43.879999, max diff,42,cr,45.326599, max diff,33
+Netflix_Aerial_1920x1080_422_10 , 47 , q_002 ,702610 ,y ,39.232118, max diff,85,cb,38.380097, max diff,82,cr,40.046717, max diff,65
+Netflix_Aerial_1920x1080_422_10 , 47 , q_003 ,483406 ,
+Netflix_Aerial_1920x1080_422_10 , 48 , q_001 ,1181660 ,y ,44.823479, max diff,48,cb,44.086613, max diff,42,cr,45.519886, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 48 , q_002 ,698097 ,
+Netflix_Aerial_1920x1080_422_10 , 49 , q_001 ,1141235 ,y ,44.195514, max diff,49,cb,43.456613, max diff,44,cr,44.906904, max diff,37
+Netflix_Aerial_1920x1080_422_10 , 49 , q_002 ,678172 ,
+Netflix_Aerial_1920x1080_422_10 , 50 , q_001 ,1134205 ,y ,44.210654, max diff,47,cb,43.468265, max diff,42,cr,44.922475, max diff,38
+Netflix_Aerial_1920x1080_422_10 , 50 , q_002 ,674118 ,
+Netflix_Aerial_1920x1080_422_10 , 51 , q_001 ,1123778 ,y ,43.986834, max diff,51,cb,43.229562, max diff,49,cr,44.708091, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 51 , q_002 ,655097 ,
+Netflix_Aerial_1920x1080_422_10 , 52 , q_001 ,1120016 ,y ,44.168146, max diff,49,cb,43.421930, max diff,48,cr,44.881454, max diff,36
+Netflix_Aerial_1920x1080_422_10 , 52 , q_002 ,651378 ,
+Netflix_Aerial_1920x1080_422_10 , 53 , q_001 ,1082367 ,y ,43.576072, max diff,58,cb,42.826492, max diff,51,cr,44.309027, max diff,40
+Netflix_Aerial_1920x1080_422_10 , 53 , q_002 ,633190 ,
+Netflix_Aerial_1920x1080_422_10 , 54 , q_001 ,1076346 ,y ,43.597768, max diff,53,cb,42.848386, max diff,51,cr,44.329938, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 54 , q_002 ,629758 ,
+Netflix_Aerial_1920x1080_422_10 , 55 , q_001 ,1066943 ,y ,43.392134, max diff,53,cb,42.625967, max diff,49,cr,44.124427, max diff,41
+Netflix_Aerial_1920x1080_422_10 , 55 , q_002 ,612474 ,
+Netflix_Aerial_1920x1080_422_10 , 56 , q_001 ,1063630 ,y ,43.556672, max diff,52,cb,42.799771, max diff,49,cr,44.285360, max diff,39
+Netflix_Aerial_1920x1080_422_10 , 56 , q_002 ,609302 ,
+Netflix_Aerial_1920x1080_422_10 , 57 , q_001 ,1028749 ,y ,43.003935, max diff,56,cb,42.243229, max diff,53,cr,43.746064, max diff,42
+Netflix_Aerial_1920x1080_422_10 , 57 , q_002 ,592852 ,
+Netflix_Aerial_1920x1080_422_10 , 58 , q_001 ,1023362 ,y ,43.025672, max diff,55,cb,42.260354, max diff,55,cr,43.763240, max diff,42
+Netflix_Aerial_1920x1080_422_10 , 58 , q_002 ,589875 ,
+Netflix_Aerial_1920x1080_422_10 , 59 , q_001 ,1015120 ,y ,42.837132, max diff,54,cb,42.058487, max diff,54,cr,43.583550, max diff,41
+Netflix_Aerial_1920x1080_422_10 , 59 , q_002 ,574514 ,
+Netflix_Aerial_1920x1080_422_10 , 60 , q_001 ,1012285 ,y ,42.991215, max diff,54,cb,42.222785, max diff,54,cr,43.734869, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 60 , q_002 ,571835 ,
+Netflix_Aerial_1920x1080_422_10 , 61 , q_001 ,979632 ,y ,42.472005, max diff,63,cb,41.700052, max diff,54,cr,43.228397, max diff,50
+Netflix_Aerial_1920x1080_422_10 , 61 , q_002 ,557375 ,
+Netflix_Aerial_1920x1080_422_10 , 62 , q_001 ,975000 ,y ,42.491463, max diff,68,cb,41.717186, max diff,52,cr,43.247616, max diff,47
+Netflix_Aerial_1920x1080_422_10 , 62 , q_002 ,554812 ,
